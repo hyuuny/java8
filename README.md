@@ -41,7 +41,9 @@ int max(int a, int b){
   * * *
 
 
+* [java.util.function패키지][functionpackage]
 
+[functionpackage]:https://github.com/setge/java8/blob/master/src/main/java/md/java.utilfunction%ED%8C%A8%ED%82%A4%EC%A7%80.md
 
 
   
