@@ -15,8 +15,9 @@ Predicate<Integer> notp = p.negate(); // i >= 100
 Predicate<Integer> all = notP.and(q.or(r));
 System.out.println(all.test(150)); // true
 ```
-* 이처럼 and(), or(), negate()로 여러 조건식을 하나로 합칠 수 있다.
+* 이처럼 and(), or(), negate()로 여러 조건식을 하나로 합칠 수 있다.  
   
+  * * *  
   
   
 ### static메서드인 <u>isEqual()은 두 대상을 비교</u>하는 Predicate를 만들 때 사용한다.
