@@ -30,18 +30,19 @@ int max(int a, int b){
   return a>b ? a:b;
 }
 ```
-    ⬇️
-* 람다식
+  
+* 람다식(위 메서드를 람다식으로 표현하면 이렇게 간결해진다.)
 ```
-(a, b) -> a>b ? a:b;
+(a, b) -> a > b ? a : b;
 ```
 
-* 확실히 메서드를 람다식으로 표현하면 위와 같이 간단하게 표현할 수 있다.
 
   * * *
 
 
+* [java.util.function패키지][functionpackage]
 
+[functionpackage]:https://github.com/setge/java8/blob/master/src/main/java/md/java.utilfunction%ED%8C%A8%ED%82%A4%EC%A7%80.md
 
 
   
