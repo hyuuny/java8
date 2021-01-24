@@ -48,7 +48,7 @@ int max(int a, int b){
 
 [Predicate의 결합]:https://github.com/setge/java8/blob/master/src/main/java/md/Predicate%EC%9D%98%20%EA%B2%B0%ED%95%A9.md
 
-* [메서드 참주][메서드 참조]
+* [메서드 참조][메서드 참조]
 
 [메서드 참조]:https://github.com/setge/java8/blob/master/src/main/java/md/%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md
 
