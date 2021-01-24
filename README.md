@@ -41,12 +41,26 @@ int max(int a, int b){
 
 
 * [java.util.function패키지][functionpackage]
-
 [functionpackage]:https://github.com/setge/java8/blob/master/src/main/java/md/java.utilfunction%ED%8C%A8%ED%82%A4%EC%A7%80.md
 
 * [Predicate의 결합][Predicate의 결합]
-
 [Predicate의 결합]:https://github.com/setge/java8/blob/master/src/main/java/md/Predicate%EC%9D%98%20%EA%B2%B0%ED%95%A9.md
+
+* [메서드 참주][메서드 참조]
+[메서드 참조]:https://github.com/setge/java8/blob/master/src/main/java/md/%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md
+
+* [스트림(Stream)][스트림]
+[스트림]:https://github.com/setge/java8/blob/master/src/main/java/md/%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%98%20%ED%8A%B9%EC%A7%95.md
+
+* [스트림 만들기][스트림 만들기]
+[스트림 만들기]:https://github.com/setge/java8/blob/master/src/main/java/md/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md
+
+* [스트림의 중간연산][스트림의 중간연산]
+[스트림의 중간연산]:https://github.com/setge/java8/blob/master/src/main/java/md/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%A4%91%EA%B0%84%EC%97%B0%EC%82%B0.md
+
+
+
+
 
 
   
