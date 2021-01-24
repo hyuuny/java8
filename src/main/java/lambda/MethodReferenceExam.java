@@ -1,4 +1,4 @@
-package stream;
+package lambda;
 
 import java.util.function.Function;
 
