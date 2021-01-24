@@ -44,5 +44,9 @@ int max(int a, int b){
 
 [functionpackage]:https://github.com/setge/java8/blob/master/src/main/java/md/java.utilfunction%ED%8C%A8%ED%82%A4%EC%A7%80.md
 
+* [Predicate의 결합][Predicate의 결합]
+
+[Predicate의 결합]:https://github.com/setge/java8/blob/master/src/main/java/md/Predicate%EC%9D%98%20%EA%B2%B0%ED%95%A9.md
+
 
   
