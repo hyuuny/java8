@@ -64,6 +64,14 @@ int max(int a, int b){
 
 [스트림의 중간연산]:https://github.com/setge/java8/blob/master/src/main/java/md/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%A4%91%EA%B0%84%EC%97%B0%EC%82%B0.md
 
+* [Optional][Optional]
+
+[Optional]:https://github.com/setge/java8/blob/master/src/main/java/md/Optional%3CT%3E.md
+
+* [스트림의 최종연산][스트림의 최종연산]
+
+[스트림의 최종연산]:https://github.com/setge/java8/blob/master/src/main/java/md/%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%98%20%EC%B5%9C%EC%A2%85%EC%97%B0%EC%82%B0.md
+
 
 
 
