@@ -13,7 +13,7 @@ public final class Optional<T>{
 반환하면, <u>반환된 결과가 null인지 매번 if문으로 체크하는 대신
   Optional에 정의된 메서드를 통해서 간단히 처리</u>할 수 있다.
   
-* Optional을 이용하면, <u>널 체크를 위한 if문 없이도 NullPointException이
+* Optional을 이용하면, <u>널 체크를 위한 if문 없이도 NullPointerException이
 발생하지 않는</u> 보다 간결하고 안전한 코드를 작성하는 것이 가능하다.
 
 ### Optional의 사용 이유
@@ -32,10 +32,10 @@ Optional<String> optVal = Optional.of(new String("abc"));
 ```
 
 * 참조변수의 값이 <u>null일 가능성이 있으면, of()대신 ofNullable()을 사용</u>해야한다.
-* of()는 매개변수의 값이 null이면 NullPointException이 발생하기 때문
+* of()는 매개변수의 값이 null이면 NullPointerException이 발생하기 때문
 
 ```java
-Optional<String> optVal = Optional.of(null); // NullPointException 발생
+Optional<String> optVal = Optional.of(null); // NullPointerException 발생
 Optional<String> optVal = Optional.ofNullable(null); // OK
 ```
 
